@@ -26,7 +26,7 @@ node -v
 - That's it
 
 #### Cloning Repository dengan Git:
-- Install Git (https://git-scm.com/downloads)
+- [Install Git](https://git-scm.com/downloads)
 
 - Buka Terminal atau Command Prompt
 
